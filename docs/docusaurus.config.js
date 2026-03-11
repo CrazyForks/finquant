@@ -6,8 +6,9 @@ const config = {
   tagline: '轻量级 Python 量化回测工具',
   favicon: 'img/favicon.ico',
 
-  url: 'https://meepo-quant.github.io',
+  url: 'https://finvfamily.github.io',
   baseUrl: '/finquant/',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
