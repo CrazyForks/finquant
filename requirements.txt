@@ -14,3 +14,6 @@ aiohttp>=3.8.0
 
 # HTTP
 requests>=2.28.0
+
+# Console UI
+prompt_toolkit>=3.0
